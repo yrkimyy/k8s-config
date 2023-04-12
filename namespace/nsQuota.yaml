@@ -11,4 +11,3 @@ spec:
     limits.memory: 1Gi
     requests.nvidia.com/gpu: 4
     
-    
