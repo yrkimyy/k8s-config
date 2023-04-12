@@ -6,7 +6,7 @@ metadata:
   labels:
     app: eks-example
   annotations:
-    flux.weave.works/automated: true 
+    flux.weave.works/automated: "true" 
 spec:
   replicas: 1 
   selector:
